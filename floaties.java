@@ -1,4 +1,6 @@
-
+//need to make sure to get the sequencing correct
+//still having issues with initial scanner import so need to add it in code
+//need to make a callback number variable that the program can refer back to
 public class floaties {
 
 	public static void main(String[] args) {
